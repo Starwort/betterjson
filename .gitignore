@@ -1,0 +1,5 @@
+pypi_config.py
+dist
+*.egg-info
+__pycache__
+.vscode
